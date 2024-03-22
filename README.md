@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhita Das</h1>
 <h3 align="center">A passionate Web developer from Bhopal</h3>
 
-<img align="right" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Ffemale-web-developer&psig=AOvVaw0jPlqqcwYY_Dd683UhA_9Q&ust=1711162306797000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiqvb3uhoUDFQAAAAAdAAAAABBG.gif">
+
 
 - 🌱 I’m currently learning **REACT, NODEJS,MONGODB**
 
